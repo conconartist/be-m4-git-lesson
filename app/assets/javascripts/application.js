@@ -13,3 +13,8 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+this is a commit
+
+how about another
+
+and another
